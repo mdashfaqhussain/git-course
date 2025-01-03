@@ -1,2 +1,2 @@
 # git-course
-This is a Udemy course 
+## This is a Udemy course 
